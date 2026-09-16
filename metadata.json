@@ -1,0 +1,6 @@
+{
+  "name": "My Gallery",
+  "description": "A fast, privacy-first offline photo and video gallery for Android featuring albums, trash, favorites, and secure hidden vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
